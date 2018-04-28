@@ -1,0 +1,21 @@
+{
+    "name": "phpdoc/yii2.0-online-doc",
+    "description": "yii2.0 online doc comment",
+    "type": "library",
+    "authors": [
+        {
+            "name": "lizefeng",
+            "email": "632524693@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "classmap": [
+            "src/"
+        ]
+    }
+}
